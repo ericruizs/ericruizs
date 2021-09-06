@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ericruizs
+- 👀 I’m interested in Data Anlytics
+- 🌱 I’m currently learning R, Python and SQL. 
+- 💞️ I’m looking to collaborate on Data analytics projects. 
+- 📫 Reach me at ericruizsanchez@gmail.com 
